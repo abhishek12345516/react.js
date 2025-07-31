@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Pancil",
+        "image":"https://i.pinimg.com/736x/9b/e5/fb/9be5fb721401e89db678fd934833a35a.jpg",
+        "price": 10.99,
+        "quantity": 5
+    },
+    {
+        "id": 2,
+        "name": "Pan",
+        "image":"https://media.istockphoto.com/id/158424399/vector/black-pen.jpg?s=612x612&w=0&k=20&c=txlgyByhPSyh7LlC3_1eQtxzEWAYLoZCEdguTmTvuCI=",
+        "price": 15.00,
+        "quantity": 10
+    },
+    {
+        "id": 3,
+        "name": "Headphone",
+        "image":"https://t3.ftcdn.net/jpg/00/91/07/82/360_F_91078252_i7cx2uJzDzgoJGDdUAHtVAcpjugVauX9.jpg",
+        "price": 999,
+        "quantity": 5
+    },
+    {
+        "id": 4,
+        "name": "Iphone 15 Pro",
+        "image":"https://www.dxomark.com/wp-content/uploads/medias/post-157467/Apple-iPhone-15-Pro_-natural_featured-image-packshot-review.jpg",
+        "price": 78678,
+        "quantity": 10
+    }
+]
