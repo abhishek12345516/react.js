@@ -1,0 +1,13 @@
+html, body, #root {
+  height: 100%;
+}
+
+.main-layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+.content {
+  flex: 1; /* Content ko beech me stretch karega */
+}
